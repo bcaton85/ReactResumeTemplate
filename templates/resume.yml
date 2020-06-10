@@ -1,0 +1,64 @@
+header: 'Brandon Caton'
+subHeader: 'Software Engineer'
+email: 'brandon.r.caton@gmail.com'
+website: www.brandoncaton.com
+experience:
+- company: 'UPS'
+  position: 'Systems Programming Analyst (DevOps Engineer)'
+  date: 'Janurary 2019 - Current'
+  bullets:
+  - 'Created internal web application that automates the provisioning of infrastructure for 2000+ UPS developers'
+  - 'Created CI/CD Kubernetes pipeline capable of deploying to multiple Kube based cloud providers, decreasing time to production across multiple cloud platforms'
+  - 'Assessed use cases and performance of AMQ7 and Google Pubsub messaging systems, leading to infrastructure guidelines used by development teams'
+- company: 'New Jersey Institute of Technology'
+  position: 'Software Developer'
+  date: 'September 2017 - April 2019'
+  bullets:
+  - 'Rebuilt web pages from Handlbars.js to React.js, leading to more flexible and feature rich page design'
+  - 'Implemented grade report and user management features, essential for production deployment'
+  - 'Redesigned and built new REST endpoints, reducing response size and simplifying frontend logic'
+- company: 'UPS'
+  position: 'Software Developer (Intern)'
+  date: 'May 2017 - September 2017'
+  bullets:
+  - 'Created tool to scan logs and notify developers using insecure connections to promote security'
+  - 'Created health checks for code analysis tools used for early detection of down time'
+  - 'Implemented scripts to replicate production data across clusters for data availability'
+- company: 'Atlantic Health System'
+  position: 'IT Technician (Intern)'
+  date: 'January 2016 - May 2016'
+  bullets:
+  - 'Wrote script to include location when retrieving hospital device information, leading to faster resolution times'
+  - 'Diagnosed and resolved errors in medical software allowing physicians to continue caring for their patients'
+education:
+- name: 'New Jersey Institute of Technology'
+  degree: 'B.S. Computer Science'
+  gpa: '3.9 Summa Cum Laude'
+  location: 'Newark NJ'
+  graduationDate: 'December 2018'
+volunteerWork:
+- name: 'UPS Sponsor - NJIT Capstone Program'
+  date: 'January 2019 - May 2019'
+  description: 'Worked with NJIT seniors in developing a real world web application.'
+languages:
+- 'C#'
+- 'Javascript (ES6+)'
+- 'Typescript'
+- 'Bash'
+- 'HTML/CSS/SCSS'
+frameworks:
+- 'React'
+- 'Angular'
+- '.Net Core'
+- 'Node.js'
+- 'NestJS'
+technologies:
+- Git
+- Docker
+- Kubernetes
+- Openshift
+- GCP (GKE, Functions, Pubsub)
+interests:
+- Guitar
+- Archery
+- Hiking
